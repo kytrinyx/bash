@@ -20,5 +20,6 @@
       "link_url": null,
       "avatar_url": null
     }
-  ]
+  ],
+  "docs_url": "https://github.com/exercism/docs/blob/master/maintaining-a-track/maintainer-configuration.md"
 }
